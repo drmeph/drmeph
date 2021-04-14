@@ -1,6 +1,6 @@
-### Latest Projects and Products
+# Latest Projects and Products
 
-# [Dance Sticker App for iOS](https://apps.apple.com/ca/app/dance-sticker-pack/id1537390573?app=messages) 
+## [Dance Sticker App for iOS](https://apps.apple.com/ca/app/dance-sticker-pack/id1537390573?app=messages) 
 
 # Certificates:
 ## Dec 2020: [Machine Learning - Stanford Online](https://www.coursera.org/account/accomplishments/verify/QVPFB87H7TTJ)
