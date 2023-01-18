@@ -1,7 +1,8 @@
 # Latest Projects and Products
-
-## [Dance Sticker App for iOS](https://apps.apple.com/ca/app/dance-sticker-pack/id1537390573?app=messages) 
-## [Skilled Team Generator](https://github.com/drmeph/skilled-team-generator)
+## Public
+### [Skilled Team Generator](https://github.com/drmeph/skilled-team-generator)
+## Private
+### Project Siler: help identifying knowledge silos on a team (ask me about it)
 
 # Certificates:
 ## Dec 2020: [Machine Learning - Stanford Online](https://www.coursera.org/account/accomplishments/verify/QVPFB87H7TTJ)
